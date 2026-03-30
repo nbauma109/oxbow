@@ -15,7 +15,7 @@
 		
 		<miglayout.version>11.4.2</miglayout.version>
 		<slf4j.version>1.7.36</slf4j.version>
-		<logback.version>1.2.13</logback.version>
+		<logback.version>1.5.32</logback.version>
 		<junit-jupiter.version>5.12.2</junit-jupiter.version>
 
     </properties>
